@@ -112,7 +112,12 @@ return [
     // php-cs-fixer 3: Changed options
     'binary_operator_spaces' => [
         'default' => 'single_space',
-        'operators' => ['=>' => null],
+        'operators' => [
+            '=>' => 'align_single_space_minimal',
+            '=' => 'align_single_space',
+            '+=' => 'align_single_space',
+            '===' => 'align_single_space_minimal'
+        ],
     ],
     'blank_line_before_statement' => [
         'statements' => ['return'],

@@ -31,7 +31,7 @@ To Fix code, run
 To make is easier, you can add a shortcut command on your `composer.json` as follows
 
 ```javascript
-   "scripts": 
+   "scripts":
         "format": [
             "./vendor/bin/php-cs-fixer fix"
         ],
