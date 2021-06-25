@@ -13,9 +13,9 @@ Require the package in your laravel or php project.
 composer require cursorstartups/php-styles --dev
 ```
 
-If you are working on a laravel project copt `.php_cs.dist`
+If you are working on a laravel project copy `.php-cs-fixer.dist.php` to root directory
 ```bash
-cp vendor\cursorstartups\php-styles\.php_cs.dist.laravel.php .php_cs.dist.php
+cp vendor/cursorstartups/php-styles/.laravel-php-cs-fixer.dist.php .php-cs-fixer.dist.php
 ```
 
 ## Usage
