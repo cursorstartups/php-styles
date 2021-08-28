@@ -1,8 +1,9 @@
+![Packagist Version](https://img.shields.io/packagist/v/cursorstartups/php-styles?label=Stable%20Release&style=for-the-badge)
+![Packagist Downloads](https://img.shields.io/packagist/dt/cursorstartups/php-styles?style=for-the-badge)
 [![GitHub issues](https://img.shields.io/github/issues/CursorStartups/php-styles?style=for-the-badge)](https://github.com/CursorStartups/php-styles/issues)
 [![GitHub stars](https://img.shields.io/github/stars/CursorStartups/php-styles?style=for-the-badge)](https://github.com/CursorStartups/php-styles/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/CursorStartups/php-styles?style=for-the-badge)](https://github.com/CursorStartups/php-styles/network)
 [![GitHub license](https://img.shields.io/github/license/CursorStartups/php-styles?style=for-the-badge)](https://github.com/CursorStartups/php-styles)
-[![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=Tweet&logo=twitter&logoColor=%23ffff&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FCursorStartups%2Fphp-styles)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FCursorStartups%2Fphp-styles)
 
 
 ## About
