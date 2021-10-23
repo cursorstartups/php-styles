@@ -86,7 +86,8 @@ return [
     'simplified_null_return' => false, // disabled by Shift
     'single_blank_line_at_eof' => true,
     'single_blank_line_before_namespace' => true,
-    'single_import_per_statement' => true,
+    'no_unused_imports' => true,
+    'group_import' => true,
     'single_line_after_imports' => true,
     'single_line_comment_style' => [
         'comment_types' => ['hash'],
